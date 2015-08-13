@@ -1,0 +1,33 @@
+.col-md-4{
+    border: 1px solid Black;
+    height: 100px;
+}
+
+.rowstyle1:hover{
+    background-color: black;
+}
+.rowstyle2:hover{
+    background-color: blue;
+}
+.rowstyle3:hover{
+    background-color: red;
+}
+
+
+
+.vcenter {
+     transform: translate(0,100%);
+    -webkit-transform: translate(0,100%);  
+}
+
+
+.background1{
+    background-color: pink;
+}
+.background2{
+    background-color: yellow;
+}
+.background3{
+    background-color: purple;
+}
+
